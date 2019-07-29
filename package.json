@@ -1,0 +1,24 @@
+{
+  "name": "ashatravelshub",
+  "version": "1.0.0",
+  "description": "Car rental service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneepct/ashatravelshub.git"
+  },
+  "keywords": [
+    "Car",
+    "rental",
+    "service."
+  ],
+  "author": "Aneep Tandel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aneepct/ashatravelshub/issues"
+  },
+  "homepage": "https://github.com/aneepct/ashatravelshub#readme"
+}
